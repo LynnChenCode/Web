@@ -6,4 +6,7 @@ IDEA提效插件
 4. mybatisX：方便mapper与xml之间切换
 5. ai
 6. maven helper：查看依赖冲突，以列表或树形查看所以依赖
-7. Chinese（已捆绑）
+7.Alabaster Themes（vscode同样适用）：凸出显示方法、注释
+8.Grep Console ：凸出显示控制台警告信息
+9.Api Fast Request:测试接口
+8. Chinese（已捆绑）
