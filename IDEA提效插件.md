@@ -9,5 +9,6 @@ IDEA提效插件
 7. Alabaster Themes（vscode同样适用）：凸出显示方法、注释
 8. Grep Console ：凸出显示控制台警告信息
 9. Api Fast Request:测试接口
-10.  Chinese（已捆绑）
+10. Chinese（已捆绑）
+11. SequenceDiagram Core：生成方法调用的时序图
 
